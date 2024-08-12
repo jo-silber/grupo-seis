@@ -17,3 +17,15 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: tomato;
+    font-size:larger;
+    font-weight: bold;
+   
+}
